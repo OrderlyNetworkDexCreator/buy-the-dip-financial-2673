@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Vaults",
-  "VITE_CUSTOM_MENUS": "Borrow/ Lend on AAVE Money Markets, https://app.aave.com/; Borrow /Lend on Compound Finance, https://app.compound.finance/",
+  "VITE_CUSTOM_MENUS": "Borrow/ Lend AAVE Money Markets, https://app.aave.com/; Borrow /Lend Compound Finance, https://app.compound.finance/; Borrow/Lend Venus Money Markets, https://venus.io/",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
