@@ -11,9 +11,9 @@
   --oui-color-link: 238 238 238;
   --oui-color-link-light: 224 224 224;
 
-  --oui-color-secondary: 93 83 123;
-  --oui-color-tertiary: 93 83 123;
-  --oui-color-quaternary: 93 83 123;
+  --oui-color-secondary: 170 150 220;
+  --oui-color-tertiary: 170 150 220;
+  --oui-color-quaternary: 170 150 220;
 
   --oui-color-danger: 245 97 139;
   --oui-color-danger-light: 250 167 188;
@@ -33,16 +33,16 @@
   --oui-color-fill: 230 230 230;
   --oui-color-fill-active: 220 220 220;
 
-  --oui-color-base-1: 230 230 230;
-  --oui-color-base-2: 210 210 210;
-  --oui-color-base-3: 190 190 190;
-  --oui-color-base-4: 170 170 170;
-  --oui-color-base-5: 150 150 150;
-  --oui-color-base-6: 130 130 130;
+  --oui-color-base-1: 220 210 240;
+  --oui-color-base-2: 200 190 220;
+  --oui-color-base-3: 180 170 200;
+  --oui-color-base-4: 160 150 180;
+  --oui-color-base-5: 140 130 160;
+  --oui-color-base-6: 120 110 140;
   --oui-color-base-7: 93 83 123;
-  --oui-color-base-8: 70 63 93;
-  --oui-color-base-9: 51 46 66;
-  --oui-color-base-10: 14 13 18;
+  --oui-color-base-8: 80 70 110;
+  --oui-color-base-9: 60 50 90;
+  --oui-color-base-10: 40 30 70;
 
   --oui-color-base-foreground: 255 255 255;
   --oui-color-line: 255 255 255;
@@ -56,8 +56,8 @@
   --oui-gradient-primary-start: 216 216 216;
   --oui-gradient-primary-end: 255 255 255;
 
-  --oui-gradient-secondary-start: 81 42 121;
-  --oui-gradient-secondary-end: 176 132 233;
+  --oui-gradient-secondary-start: 150 120 200;
+  --oui-gradient-secondary-end: 200 170 230;
 
   --oui-gradient-success-start: 1 83 68;
   --oui-gradient-success-end: 41 223 169;
